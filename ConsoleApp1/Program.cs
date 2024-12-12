@@ -12,8 +12,6 @@
         bool isPlayerOneTurn = true;
         int numberOfTurns = 8;
 
-        Console.WriteLine("Hello world!");
-
         PrintGameBoard(GameBoard);
 
         while (!isGameFinished)
